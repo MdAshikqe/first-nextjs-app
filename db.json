@@ -1,0 +1,46 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Air Max Runner",
+      "description": "Lightweight running shoes with excellent cushioning and support.",
+      "price": 888,
+      "img": "https://example.com/images/air-max-runner.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Classic Canvas Sneakers",
+      "description": "Timeless canvas sneakers perfect for casual wear.",
+      "price": 222,
+      "img": "https://example.com/images/classic-canvas-sneakers.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hiker Pro Boots",
+      "description": "Durable boots designed for rugged terrain and long hikes.",
+      "price": 333,
+      "img": "https://example.com/images/hiker-pro-boots.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Basketball Elite",
+      "description": "High-performance basketball shoes for ultimate court control.",
+      "price": 130,
+      "img": "https://example.com/images/basketball-elite.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Slip-On Comfort",
+      "description": "Convenient slip-on shoes with a sleek and minimalist design.",
+      "price": 50,
+      "img": "https://example.com/images/slip-on-comfort.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Trail Blazer",
+      "description": "Shoes built for off-road adventures with exceptional grip and durability.",
+      "price": 140,
+      "img": "https://example.com/images/trail-blazer.jpg"
+    }
+  ]
+}
